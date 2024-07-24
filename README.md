@@ -15,11 +15,11 @@ MS Copilot:
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Refatoração  | Atue como um desenvolvedor de software pyton senior, e refatore o código abaixo considerando desempenho, velocidade de processamento e facilidade na leitura (Código disponível na pasta INPUT) |    
-|  Imagem  | Atue como um desenvolvedor de software pyton senior, e refatore o código abaixo considerando desempenho, velocidade de processamento e facilidade na leitura (Código disponível na pasta OUTPUT) |  
+|  Refatoração  | Atue como um desenvolvedor de software pyton senior, e refatore o código abaixo considerando desempenho, velocidade de processamento e facilidade na leitura. |    
+|  Imagem  | Gere uma imagem de um gato desenvolvedor de software, que utiliza um robô como Inteligência Artificial. |  
 |  Resumo  | Gere um resumo da página: https://learn.microsoft.com/pt-br/microsoft-sales-copilot/sales-copilot-faq com os principais tópicos, para ser adicionado em uma apresentação. Utilize uma linguagem simples como se estivesse explicando para uma criança de 10 anos. Para cada um dos tópicos apresentados, crie um esboço com a estrutura e a forma de fazer, para que eu crie uma apresentação PPT. |  
 |  Texto  | Gere um e-mail para ser direcionado aos colaboradores da empresa, informando que o prazo para ajustes no lançamento de horas na folha, se encerrará no dia 25 do mês. Ressalte os benefícios de realizar os ajustes e seja cordial. |  
-|  Insights  | Atue como um desenvolvedor de software pyton senior, e refatore o código abaixo considerando desempenho, velocidade de processamento e facilidade na leitura (Código disponível na pasta OUTPUT) |  
+|  Insights  | Comporte-se como um Scrum master e sugira melhorias para um time de desenvolvimento de software, listando eventuais problemas e gerando um plano de ação, com base na imagem de um gráfico CFD do time. Aguarde eu enviar o arquivo de imagem antes de responder. |  
 
 
 ## ✨ Features
